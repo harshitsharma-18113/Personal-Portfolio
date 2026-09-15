@@ -100,8 +100,8 @@ header {
 
 /* Profile Image */
 .home-image img {
-    width: 230px;
-    height: 230px;
+    width: 250px;
+    height: 350px;
     object-fit: cover;
 
     border-radius: 50%;
